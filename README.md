@@ -18,4 +18,3 @@ CTF:
 + [zedd师傅的题目](https://github.com/ysllz/Blog/issues/10)
 
 Tricks:
-+ [反序列化原生类总结](https://github.com/ysllz/Blog/issues/11)
