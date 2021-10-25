@@ -15,3 +15,4 @@ CTF:
 + [鹤壁杯WEB ](https://github.com/ysllz/Blog/issues/5)
 + [极客谷杯WEB](https://github.com/ysllz/Blog/issues/8)
 + [强网拟态WEB](https://github.com/ysllz/Blog/issues/9)
++ [zedd师傅的题目](https://github.com/ysllz/Blog/issues/10)
