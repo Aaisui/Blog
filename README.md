@@ -20,4 +20,4 @@ CTF:
 Tricks:
 
 反序列化链子:
-+ [codeinjt4写文件链子](https://github.com/ysllz/Blog/issues/13)
++ [CodeIgniter4](https://github.com/ysllz/Blog/issues/13)
