@@ -18,3 +18,6 @@ CTF:
 + [zedd师傅的题目](https://github.com/ysllz/Blog/issues/10)
 
 Tricks:
+
+反序列化链子:
++ [codeinjt4写文件链子](https://github.com/ysllz/Blog/issues/13)
