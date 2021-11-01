@@ -23,3 +23,5 @@ Tricks:
 反序列化链子:
 + [CodeIgniter4](https://github.com/ysllz/Blog/issues/13)
 + [Thinkphp5.0.24反序列化](https://github.com/ysllz/Blog/issues/1)
+
++ [任意文件包含导致的getshell](https://github.com/ysllz/Blog/issues/15)
