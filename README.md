@@ -8,7 +8,7 @@ XSS：
 
 挖洞：
 + [挖洞中后台要注意的地方](https://github.com/ysllz/Blog/issues/2)
-+ [Thinkphp5.0.24反序列化](https://github.com/ysllz/Blog/issues/1)
+
 
 
 CTF:
@@ -22,3 +22,4 @@ Tricks:
 
 反序列化链子:
 + [CodeIgniter4](https://github.com/ysllz/Blog/issues/13)
++ [Thinkphp5.0.24反序列化](https://github.com/ysllz/Blog/issues/1)
