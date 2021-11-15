@@ -93,9 +93,9 @@ pentest in Autumm因为pom中存在这个依赖，可以访问到actuator路由�
 
 ```
 ;/actuator/heapdump
+ https://www.cnblogs.com/icez/p/Actuator_heapdump_exploit.html 
 ```
 
- https://www.cnblogs.com/icez/p/Actuator_heapdump_exploit.html 
  
  ![img](https://gitee.com/yyssllz/pic/raw/master/KsMoxv6EHkh12xgg.png!thumbnail) 能够找到key：![img](https://gitee.com/yyssllz/pic/raw/master/xt8Gj9x7Y8sbgbFz.png!thumbnail)跟着文章复现一下得到：POtxXgM0EC42xSvJ4CZQDw== 网上找了工具一把锁：https://github.com/j1anFen/shiro_attack![img](https://uploader.shimo.im/f/AiWFxk0AA3MFH2ch.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhY2Nlc3NfcmVzb3VyY2UiLCJleHAiOjE2MzY5NDkxMDgsImciOiJjeXhjUWczcXd2NlJKZDNKIiwiaWF0IjoxNjM2OTQ4ODA4LCJ1c2VySWQiOjI4MDg0NzYzfQ.cAi3GvNBuaVGb_flJ82-tPtWB6IBiO2-hr-76RBX__Y)
 
