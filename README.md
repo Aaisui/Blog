@@ -17,6 +17,7 @@ CTF:
 + [强网拟态WEB](https://github.com/ysllz/Blog/issues/9)
 + [zedd师傅的题目](https://github.com/ysllz/Blog/issues/10)
 + [东华杯WEB](https://github.com/ysllz/Blog/issues/14)
++ [湖湘杯WEB](https://github.com/ysllz/Blog/blob/main/%E6%B9%96%E6%B9%98%E6%9D%AFWP.md)
 
 Tricks:
 
