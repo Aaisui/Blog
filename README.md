@@ -28,3 +28,7 @@ Tricks:
 
 BUU:
 + [GKCTF2021babycat](https://github.com/ysllz/Blog/issues/17)
+
+渗透:
++ [Darkhole](https://github.com/ysllz/Blog/blob/main/Darkhole2.md)
++ [hackme 两个](https://github.com/ysllz/Blog/blob/main/vlunhub%E9%9D%B6%E6%9C%BA%20hackme.md)
