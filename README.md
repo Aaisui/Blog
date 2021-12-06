@@ -19,6 +19,7 @@ CTF:
 + [东华杯WEB](https://github.com/ysllz/Blog/issues/14)
 + [湖湘杯WEB](https://github.com/ysllz/Blog/blob/main/%E6%B9%96%E6%B9%98%E6%9D%AFWP.md)
 + [西湖论剑WEB](https://github.com/ysllz/Blog/blob/main/%E8%A5%BF%E6%B9%96%E8%AE%BA%E5%89%91WEB.md) 附件:https://github.com/ysllz/Blog/issues/21
++ [暗泉杯](https://github.com/ysllz/Blog/blob/main/%E6%9A%97%E6%B3%89%E6%9D%AF.md)
 
 Tricks:
 
